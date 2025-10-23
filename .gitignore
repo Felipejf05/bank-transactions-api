@@ -1,0 +1,78 @@
+# ==============================
+# ⚙️ SISTEMA OPERACIONAL
+# ==============================
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.Trash-*
+
+# ==============================
+# 💻 IDEs
+# ==============================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse / NetBeans
+.classpath
+.project
+.settings/
+.nb-gradle/
+
+# ==============================
+# ☕ MAVEN / GRADLE
+# ==============================
+target/
+build/
+out/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.gradle/
+
+# ==============================
+# 🧾 LOGS / TEMP
+# ==============================
+*.log
+*.tmp
+*.temp
+hs_err_pid*
+replay_pid*
+
+# ==============================
+# 📦 ARQUIVOS GERADOS / PACOTES
+# ==============================
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ==============================
+# 🧱 DOCKER (se usar)
+# ==============================
+docker-compose.override.yml
+
+# ==============================
+# 🔒 VARIÁVEIS DE AMBIENTE
+# ==============================
+.env
+.env.local
+.env.*.local
+
+# ==============================
+# 🧪 OUTROS
+# ==============================
+local.history/
+coverage/
